@@ -1,0 +1,2 @@
+# python
+sintaxe e exercicos 
