@@ -2,7 +2,7 @@ class Aluno:
     def __init__(self, nome, matricula):
         #atributos do aluno
         self.nome = nome
-        self.matricula = matricula
+        self.matricula = matricula 
         self.notas = []
         self.status = "em curso"
 
