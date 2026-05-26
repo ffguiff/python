@@ -4,7 +4,7 @@ conteudo.write("segunda linha\n")
 conteudo.close()
   
 '''ler'''
-# conteudo = open("teste.txt", "r")
+# conteudo = open("teste.txt", "r")  
 # print(conteudo.read())
 
 # R = read (leitura) 
