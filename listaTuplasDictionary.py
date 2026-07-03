@@ -12,7 +12,7 @@ else:
 '''indice procurado pelo nome é nao melo numero'''
 #muito ultilisado para analise de dados 
 lista = {"nome": "guilherme", "sobrenome": "ferreira"}
-print(lista["nome"], lista["sobrenome"])
+print(lista["nome"], lista["sobrenome"]) 
 
 #conjuntos
 b={1,3,5}
