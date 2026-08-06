@@ -7,7 +7,7 @@ print(a + 5)'''
 
 #para corrigir o erro deve ser adicionado a int()
 
-a = int(input("digite um numero: "))
+a = int(input("digite um numero: ")) 
 print(a + 5)
 
 b = float(input("digite numero com decimal:"))
