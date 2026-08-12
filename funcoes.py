@@ -1,5 +1,5 @@
 def teste():
-    txt = "imprimir resultado"
+    txt = "imprimir resultado" 
     return txt
 print(teste())
 
